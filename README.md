@@ -1,8 +1,3 @@
-Got it ✅ Here’s a complete **README.md** file for your **Employee Management System** project with **Prodigy Infotech** mentioned:
-
----
-
-````markdown
 # 👨‍💼 Employee Management System  
 
 A simple **Employee Management System** built with **HTML, CSS, JavaScript, and Firebase**.  
@@ -31,6 +26,22 @@ This project demonstrates the practical use of **Firebase Authentication** and *
 
 ---
 
+## 🗂️ Project Structure  
+
+```
+
+employee-management-system/
+│── index.html        # Main HTML file (Login + Employee Dashboard)
+│── style.css         # Stylesheet for the UI
+│── firebase.js       # Firebase configuration file
+│── auth.js           # Handles authentication (Login/Signup/Logout)
+│── employee.js       # Employee management logic (CRUD operations)
+│── README.md         # Project documentation
+
+````
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** HTML, CSS, JavaScript  
@@ -53,8 +64,8 @@ This project demonstrates the practical use of **Firebase Authentication** and *
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
-   cd employee-management-system
+   git clone https://github.com/Faizanakacoder/ad.git
+   cd ad
 ````
 
 2. **Setup Firebase**
@@ -78,9 +89,7 @@ This project was created during my **Prodigy Infotech Internship** 💼, where I
 
 ## 👨‍🎓 Author
 
-**FAIZAN FIROZ SHAH**
+**Faizan Firoz Shah**
 
 * 🎓 B.Tech in Computer Engineering (DBATU, Lonere)
-* 🌐 [GitHub Profile](https://github.com/your-username)
-
----
+* 🌐 [GitHub Repository](https://github.com/Faizanakacoder/ad.git)
