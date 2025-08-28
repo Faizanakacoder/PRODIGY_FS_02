@@ -52,15 +52,18 @@ employee-management-system/
 
 ## 📸 Screenshots  
 
-### 🔹 Login / Signup Page  
+### 🔹 Login / Signup Page:
 ![Login Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Log-In%20%26%20Sign-Up%20Page.png)
 
-### 🔹 ADD LIST FORM  
-![Login Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Log-In%20%26%20Sign-Up%20Page.png)  
+### 🔹 DASHBOARD:  
+![Login Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Dashboard.png)  
 
 
-### 🔹 EMPLOYEE 
-![Dashboard Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Add%20Employee%20Form.png)  
+### 🔹 ADD EMPLOYEE FORM: 
+![Dashboard Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Add%20Employee%20Form.png) 
+
+### 🔹 EMPLOYEE LIST TABLE: 
+![Dashboard Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Employee%20List%20Table.png) 
 
 ---
 
