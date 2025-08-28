@@ -53,7 +53,7 @@ employee-management-system/
 ## 📸 Screenshots  
 
 ### 🔹 Login / Signup Page  
-![Login Screenshot](https://via.placeholder.com/800x400?text=Login+Page)  
+![Login Screenshot](https://github.com/Faizanakacoder/PRODIGY_FS_02/blob/main/Log-In%20%26%20Sign-Up%20Page.png)  
 
 ### 🔹 Employee Dashboard  
 ![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Employee+Dashboard)  
